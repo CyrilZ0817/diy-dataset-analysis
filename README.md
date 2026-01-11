@@ -22,6 +22,5 @@ diy-dataset-analysis/
 │   └── diy_dataset_analysis.ipynb
 ├── data/
 │   └── diy_dataset.csv
-├── images/
 └── README.md
 ```
