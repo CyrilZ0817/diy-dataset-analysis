@@ -1,15 +1,12 @@
-# diy-dataset-analysis
-End-to-end data analysis on a real-world dataset, including cleaning, EDA, visualization, and insights
 # DIY Dataset Analysis
 
 ## Overview
-This project performs an end-to-end analysis on a real-world dataset selected by the author.
-It includes data cleaning, exploratory data analysis (EDA), and visualization to extract meaningful insights.
+This project performs an end-to-end analysis on a real-world dataset.
+It focuses on data cleaning, exploratory data analysis (EDA), and visualization to derive insights.
 
 ## Dataset
-- Source: [provide link]
-- Rows: XXX
-- Columns: XXX
+- Source: [<dataset link>](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- Format: CSV
 - Includes numeric, categorical, and date features
 
 ## Tech Stack
@@ -17,12 +14,6 @@ It includes data cleaning, exploratory data analysis (EDA), and visualization to
 - Pandas, NumPy
 - Matplotlib / Seaborn
 - Jupyter Notebook
-
-## What I Did
-- Built a reusable data-cleaning pipeline
-- Performed grouped analysis and aggregations
-- Visualized patterns across multiple dimensions
-- Summarized insights based on data exploration
 
 ## Project Structure
 ```text
